@@ -1,4 +1,4 @@
-﻿# Comp271-Hmwrk-5
+﻿# Sorting Exmaple 
  1. Bubble_Sort
  2. Insertion_Sort
  3. Quick_Sort
